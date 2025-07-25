@@ -3,7 +3,7 @@ package Tasks;
 import java.util.Scanner;
 import java.util.Arrays;
 
-
+//This is the code i created for if the user input has zeros infront of numbers this code takes the non zero elements first then add the zero elements in the last 
 public class inpreverse {
 
 	public static void main(String[] args) {
